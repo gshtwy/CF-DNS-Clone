@@ -1,9 +1,2 @@
 [functions]
-# 指定函数目录为 functions/
 directory = "functions"
-
-# （可选）添加友好访问路径
-[[redirects]]
-from = "/ddnsapi"
-to = "/.netlify/functions/ddnsapi"
-status = 200
