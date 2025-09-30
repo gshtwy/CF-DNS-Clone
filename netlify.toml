@@ -1,0 +1,7 @@
+[functions]
+directory = "functions"
+
+[[redirects]]
+from = "/ddnsapi"
+to = "/.netlify/functions/ddnsapi"
+status = 200
